@@ -6,6 +6,6 @@ This is my first repository for my data analysis projects while learning at Skil
 ### Data Sources
 
 ### Tools Used
-- MS Excel [Download Here](https:/www.microsoft.com)
+- MS Excel [Download Here](https://www.microsoft.com)
     1. This is the major tool used for analysis
 - Power BI
