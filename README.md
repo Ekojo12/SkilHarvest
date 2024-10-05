@@ -1,7 +1,7 @@
 # SkilHarvest Data Inventory
 
 ## Outline
-## [Project Overview](project-overview)
+## [Project Overview](#project-overview)
 ## Data Sources
 ## Tools Used
 ## Data Cleaning amd Preparation
