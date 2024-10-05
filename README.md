@@ -16,3 +16,4 @@ This is my first repository for my data analysis projects while learning at Skil
       SELECT * FROM TABLE 1
       WHERE CONDITION = TRUE
   ```
+![Pivot](https://github.com/user-attachments/assets/cb7e0841-665b-4f83-9338-3b1e8a41b011)
